@@ -4,8 +4,7 @@ Pour utiliser Docker Compose pour déployer l'ensemble Elastic Stack dans un con
 ## Cloner le référentiel :
 
 ```ssh
-git clone https://github.com/msellamiTN/elastic_stack_cyber.git
-cd elastic_stack_cyber
+git clone https://github.com/msellamiTN/docker_elk.git
 cd docker_elk
 ```
 ## Configuration du fichier docker-compose.yml :
